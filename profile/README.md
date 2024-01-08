@@ -1,6 +1,6 @@
 <h2> Hi, We're Laazy devs! ✋ </h2>
 <div>
-     <p>Founder - <a href="https://github.com/ilhomjon003">Ilhomjon</p>
+     <p>Founder - <a href="https://github.com/IsaqjonovII">Ilhomjon</p>
     <p>Member(s) <a href="https://github.com/shaxzocoder">Shaxzod</a></p>
 </div>
 
